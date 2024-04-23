@@ -1,4 +1,4 @@
-This project focuses on using Evolutionary Computing techniques to solve reinforcement learning problems. Evolutionary Computing encompasses a range of optimization algorithms inspired by the process of natural selection, such as Genetic Algorithms (GAs). The project will implement GAs from scratch and integrate them into an RL environment to simulate evolution.
+This is the 6th sample project for Diploma in AI focuses on using Evolutionary Computing techniques to solve reinforcement learning problems. Evolutionary Computing encompasses a range of optimization algorithms inspired by the process of natural selection, such as Genetic Algorithms (GAs). The project will implement GAs from scratch and integrate them into an RL environment to simulate evolution.
 
 By implementing the core components of genetic algorithms, participants will gain insight into how population-based optimization methods can be applied to RL tasks. They will explore concepts such as selection, crossover, and mutation to evolve solutions that maximize cumulative rewards in a given environment.
 
